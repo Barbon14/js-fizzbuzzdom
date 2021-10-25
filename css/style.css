@@ -42,3 +42,7 @@ h1 {
 .buzz {
     background-color: #fbd15d;
 }
+
+.fizz.buzz {
+    background-color: #e6446e;
+}
